@@ -4,7 +4,21 @@
     "href": "program.html",
     "title": "Program",
     "section": "",
-    "text": "Her kommer det program!"
+    "text": "Her kommer det mer om programmet."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Norsk Statistikermøte 14.-17. juni 2027 i Bergen",
+    "section": "",
+    "text": "Velkommen til Norsk Statistiskermøte, 14.-17. Juni i Bergen!"
+  },
+  {
+    "objectID": "index.html#organisasjonskomité",
+    "href": "index.html#organisasjonskomité",
+    "title": "Norsk Statistikermøte 14.-17. juni 2027 i Bergen",
+    "section": "Organisasjonskomité",
+    "text": "Organisasjonskomité\n\nBård Støve (UiB)\nAnne Marie Fenstad (Haukeland Universitetssykehus)\nBirgitte Espehaug (HVL)\nGeir Drage Berentsen (NHH)\nSondre Hølleland (NHH)"
   },
   {
     "objectID": "forkurs.html",

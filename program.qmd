@@ -2,4 +2,4 @@
 title: "Program"
 ---
 
-Her kommer det program!
+Her kommer det mer om programmet.
