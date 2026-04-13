@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "Her kommer det program!"
+  },
+  {
+    "objectID": "forkurs.html",
+    "href": "forkurs.html",
+    "title": "Forkurs",
+    "section": "",
+    "text": "Her kommer det mer om forkurs!"
+  },
+  {
+    "objectID": "praktisk_info.html",
+    "href": "praktisk_info.html",
+    "title": "Praktisk informasjon",
+    "section": "",
+    "text": "Her kommer det praktisk informasjon!"
+  }
+]

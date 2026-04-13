@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: ""
+  page-footer:
+    center: |
+      ![](images/nsf_logo.png){height=80px}
+  navbar:
+    background: primary
+    logo: images/nsm27.png
+    left:
+      - href: index.qmd
+        text: "Hjem"
+      - program.qmd
+      - praktisk_info.qmd
+      - forkurs.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+
+
+
