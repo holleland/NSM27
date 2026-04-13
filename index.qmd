@@ -11,7 +11,7 @@ title: "Norsk Statistikermøte 14.-17. juni 2027 i Bergen"
 ## Organisasjonskomité
 
 - Bård Støve (UiB)
-- Anne Marie Fenstad (Haukeland Universitetssykehus)
+- Anne Marie Fenstad (NRL)
 - Birgitte Espehaug (HVL)
 - Geir Drage Berentsen (NHH)
 - Sondre Hølleland (NHH)
