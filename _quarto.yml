@@ -2,14 +2,18 @@ project:
   type: website
   output-dir: docs
 
+lang: nb
 
 website:
-  title: ""
+  title: "NSM27"
+  favicon: images/nsm27.png
   page-footer:
     center: |
-      ![](images/nsf_logo.png){height=80px}
+      ![Norsk statistisk forening](images/nsf_logo.png){height=80px}
+
+      Kontaktperson: Bård Støve – [bard.stove@uib.no](mailto:bard.stove@uib.no)
   navbar:
-    background: primary
+    title: false
     logo: images/nsm27.png
     left:
       - href: index.qmd
@@ -17,14 +21,11 @@ website:
       - program.qmd
       - praktisk_info.qmd
       - forkurs.qmd
+      - paamelding.qmd
 
 format:
   html:
     theme:
       - cosmo
       - custom.scss
-    css: styles.css
     toc: true
-
-
-

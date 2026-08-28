@@ -1,17 +1,59 @@
 [
   {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
+    "objectID": "praktisk_info.html",
+    "href": "praktisk_info.html",
+    "title": "Praktisk informasjon",
     "section": "",
-    "text": "Her kommer det mer om programmet."
+    "text": "Norsk Statistikermøte 2027 arrangeres på Grand Hotel Terminus i Bergen, 14.–17. juni 2027. Hotellet ligger vegg i vegg med Bergen stasjon og i gangavstand fra sentrum."
+  },
+  {
+    "objectID": "praktisk_info.html#sted",
+    "href": "praktisk_info.html#sted",
+    "title": "Praktisk informasjon",
+    "section": "",
+    "text": "Norsk Statistikermøte 2027 arrangeres på Grand Hotel Terminus i Bergen, 14.–17. juni 2027. Hotellet ligger vegg i vegg med Bergen stasjon og i gangavstand fra sentrum."
+  },
+  {
+    "objectID": "praktisk_info.html#overnatting",
+    "href": "praktisk_info.html#overnatting",
+    "title": "Praktisk informasjon",
+    "section": "Overnatting",
+    "text": "Overnatting\nDet er satt av et begrenset antall rom til deltakere på Grand Hotel Terminus, der møtet også holdes.\nDeltakerne må booke overnatting selv. Bookingkode og frist for å benytte de reserverte rommene legges ut her så snart de er klare. Vi anbefaler å booke tidlig, ettersom juni er høysesong i Bergen.\nDet finnes ellers en rekke hoteller i sentrum."
+  },
+  {
+    "objectID": "praktisk_info.html#reise",
+    "href": "praktisk_info.html#reise",
+    "title": "Praktisk informasjon",
+    "section": "Reise",
+    "text": "Reise\nBergen lufthavn Flesland har direkteruter fra flere norske og europeiske byer. Bybanen går fra flyplassen til sentrum på om lag 45 minutter. Bergen stasjon betjenes av Bergensbanen fra Oslo."
+  },
+  {
+    "objectID": "praktisk_info.html#mer-informasjon",
+    "href": "praktisk_info.html#mer-informasjon",
+    "title": "Praktisk informasjon",
+    "section": "Mer informasjon",
+    "text": "Mer informasjon\nMer praktisk informasjon – blant annet om måltider, sosialt program og konferansemiddag – kommer etter hvert."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Norsk Statistikermøte 14.-17. juni 2027 i Bergen",
     "section": "",
-    "text": "Velkommen til Norsk Statistiskermøte, 14.-17. Juni i Bergen!"
+    "text": "Norsk Statistikermøte 2027 – Bergen\nVelkommen til Norsk Statistikermøte, 14.-17. juni 2027 i Bergen!\nStatistikermøtet samler statistikkmiljøet i Norge til faglig program, bidrag fra deltakerne og sosialt samvær. Møtet holdes i Bergen, med forkurs i forkant."
+  },
+  {
+    "objectID": "index.html#viktige-datoer",
+    "href": "index.html#viktige-datoer",
+    "title": "Norsk Statistikermøte 14.-17. juni 2027 i Bergen",
+    "section": "Viktige datoer",
+    "text": "Viktige datoer\n\n14.–15. juni 2027 – forkurs (lunsj til lunsj)\n15.–17. juni 2027 – Norsk Statistikermøte\nPåmelding og abstract-innsending åpner senere – følg med her."
+  },
+  {
+    "objectID": "index.html#programkomité",
+    "href": "index.html#programkomité",
+    "title": "Norsk Statistikermøte 14.-17. juni 2027 i Bergen",
+    "section": "Programkomité",
+    "text": "Programkomité\nProgramkomiteen består foreløpig av:\n\nSvein Olav Nyberg\nYushu Li\n\nFlere medlemmer kommer."
   },
   {
     "objectID": "index.html#organisasjonskomité",
@@ -25,13 +67,41 @@
     "href": "forkurs.html",
     "title": "Forkurs",
     "section": "",
-    "text": "Her kommer det mer om forkurs!"
+    "text": "Det planlegges et forkurs i forkant av statistikermøtet, etter planen 14.–15. juni 2027. Datoene er ikke endelig fastsatt.\nTema, foreleser og påmeldingsdetaljer er ikke klare ennå, og publiseres her så snart de foreligger.\nForkurset har egen påmelding og en egen deltakeravgift som kommer i tillegg til avgiften for selve møtet."
   },
   {
-    "objectID": "praktisk_info.html",
-    "href": "praktisk_info.html",
-    "title": "Praktisk informasjon",
+    "objectID": "paamelding.html",
+    "href": "paamelding.html",
+    "title": "Påmelding og bidrag",
     "section": "",
-    "text": "Her kommer det praktisk informasjon!"
+    "text": "Påmeldingen er ikke åpen ennå. Lenke til påmeldingsskjema legges ut her så snart det er klart."
+  },
+  {
+    "objectID": "paamelding.html#påmelding",
+    "href": "paamelding.html#påmelding",
+    "title": "Påmelding og bidrag",
+    "section": "",
+    "text": "Påmeldingen er ikke åpen ennå. Lenke til påmeldingsskjema legges ut her så snart det er klart."
+  },
+  {
+    "objectID": "paamelding.html#abstract-og-bidrag",
+    "href": "paamelding.html#abstract-og-bidrag",
+    "title": "Påmelding og bidrag",
+    "section": "Abstract og bidrag",
+    "text": "Abstract og bidrag\nVi oppfordrer deltakerne til å bidra med foredrag. Lenke til abstract-innsending og frist for innsending publiseres her."
+  },
+  {
+    "objectID": "paamelding.html#avgift",
+    "href": "paamelding.html#avgift",
+    "title": "Påmelding og bidrag",
+    "section": "Avgift",
+    "text": "Avgift\nDeltakeravgift for møtet – og for forkurset – fastsettes senere. Avgiften vil normalt dekke lunsj, kaffepauser og konferansemiddag. Overnatting er ikke inkludert."
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "Det fullstendige programmet publiseres her når det nærmer seg møtet.\nStatistikermøtet går over fire dager, 14.–17. juni 2027, med inviterte foredrag, bidragsseksjoner og sosialt program. Sverdrup-prisen deles normalt ut under møtet. Foredrag kan holdes på norsk eller engelsk."
   }
 ]

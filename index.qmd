@@ -2,11 +2,27 @@
 title: "Norsk Statistikermøte 14.-17. juni 2027 i Bergen"
 ---
 
-![](images/nsm27_gray.png){width=100%}
+![Norsk Statistikermøte 2027 – Bergen](images/nsm27_gray.png){width=100%}
 
-**Velkommen til Norsk Statistiskermøte, 14.-17. Juni i Bergen! **
+**Velkommen til Norsk Statistikermøte, 14.-17. juni 2027 i Bergen!**
 
+Statistikermøtet samler statistikkmiljøet i Norge til faglig program, bidrag fra
+deltakerne og sosialt samvær. Møtet holdes i Bergen, med forkurs i forkant.
 
+## Viktige datoer
+
+- **14.–15. juni 2027** – forkurs (lunsj til lunsj)
+- **15.–17. juni 2027** – Norsk Statistikermøte 
+- Påmelding og abstract-innsending åpner senere – følg med her.
+
+## Programkomité
+
+Programkomiteen består foreløpig av:
+
+- Svein Olav Nyberg
+- Yushu Li
+
+Flere medlemmer kommer.
 
 ## Organisasjonskomité
 
@@ -15,4 +31,3 @@ title: "Norsk Statistikermøte 14.-17. juni 2027 i Bergen"
 - Birgitte Espehaug (HVL)
 - Geir Drage Berentsen (NHH)
 - Sondre Hølleland (NHH)
-
