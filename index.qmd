@@ -21,6 +21,7 @@ Programkomiteen består foreløpig av:
 
 - Svein Olav Nyberg
 - Yushu Li
+- Sondre Hølleland (NHH)
 
 Flere medlemmer kommer.
 
@@ -31,3 +32,4 @@ Flere medlemmer kommer.
 - Birgitte Espehaug (HVL)
 - Geir Drage Berentsen (NHH)
 - Sondre Hølleland (NHH)
+- Eirik Myrvoll-Nilsen (UiT)
