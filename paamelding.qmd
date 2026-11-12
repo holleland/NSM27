@@ -4,17 +4,24 @@ title: "Påmelding og bidrag"
 
 ## Påmelding
 
-Påmeldingen er ikke åpen ennå. Lenke til påmeldingsskjema legges ut her så snart
-det er klart.
+Påmeldingen er åpen.  
+
+[Meld deg på konferansen her!](https://skjemaker.app.uib.no/view.php?id=21724672){style="font-size: 1.5em; font-weight: 600;"}
 
 ## Abstract og bidrag
 
-Vi oppfordrer deltakerne til å bidra med foredrag. Frist for melde inn foredrag er 15. februar. 
+Vi oppfordrer deltakerne til å bidra med foredrag. Du kan også indikere i skjemaet om du er villig til å bidra med poster dersom det blir for mange foredrag. Frist for melde inn bidrag er 15. februar. 
 
 [Meld inn bidrag her!](https://app.oxfordabstracts.com/stages/83845/submitter){style="font-size: 1.5em; font-weight: 600;"}
 
 ## Avgift
 
-Deltakeravgift for møtet – og for forkurset – fastsettes senere. Avgiften vil
-normalt dekke lunsj, kaffepauser og konferansemiddag. Overnatting er ikke
+Avgiften vil dekke lunsj, kaffepauser og konferansemiddag. Overnatting er ikke
 inkludert.
+
+- Pris på forkurs: 
+    - 1200,- for medlem, 
+    - 1400,- for ikke-medlem 
+- Konferanseavgift (inkl. konferansemiddag): 
+    - 4950,- for medlem, 
+    - 5600,- for ikke-medlem. 
